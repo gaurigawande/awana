@@ -14,6 +14,7 @@ public class HomePageL {
 	public String verifyText() {
 		
 		String actText=text.getText();
+		System.out.println("Hi");
 		return actText;
 	}
 }
